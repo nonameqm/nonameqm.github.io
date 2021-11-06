@@ -1,0 +1,85 @@
+.title{
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.top_wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.middle_wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.middle{
+    width: 100%;
+}
+
+.top{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.photo img{
+    height: 400px;
+}
+
+.photo{
+    margin-right: 10px;
+}
+
+.personal_info{
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid black;
+    height: 400px;
+}
+
+.basic_info{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.group_info{
+    margin-bottom: 30px;
+
+}
+
+.group_info h2{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.contact_info h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skills{
+    width: 100%;
+    margin-bottom: 10px;
+}
